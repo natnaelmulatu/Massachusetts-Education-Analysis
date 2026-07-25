@@ -73,11 +73,11 @@ Using **Graduation Percentage** as the primary Key Performance Indicator (KPI) f
 
 The dataset revealed severe graduation rate disparities in alternative and specialized public academies:
 
-**Curtis-Tufts High School:** 0.0% graduation rate
-**Springfield Public Day High School:** 8.7% graduation rate
-**Boston Day and Evening Academy Charter School:** 9.8% graduation rate
-**Whaling City Junior/Senior High School:** 11.4% graduation rate
-**Springfield High School:** 11.6% graduation rate
+  - **Curtis-Tufts High School:** 0.0% graduation rate
+  - **Springfield Public Day High School:** 8.7% graduation rate
+  - **Boston Day and Evening Academy Charter School:** 9.8% graduation rate
+  - **Whaling City Junior/Senior High School:** 11.4% graduation rate
+  - **Springfield High School:** 11.6% graduation rate
 
 Note: Many of these institutions serve non-traditional or high-need student populations that require intensive wrap-around services rather than standard standardized testing enforcement alone.
 
