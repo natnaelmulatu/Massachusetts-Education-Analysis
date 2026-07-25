@@ -52,12 +52,15 @@ To identify institutional excellence in primary mathematics, 4th-grade MCAS perf
 
 ### 🏆 Key Performers & Benchmarks
 
+<br>
+
 **Community Day Charter Public School:** Led the entire state, achieving top MCAS math passing benchmarks of **61.0%**, **58.0%**, and **57.0%**.
 **High-Performing Districts:** Richmond-Webster District, Prospect District, and Gateway District consistently surpassed state benchmarks.
 
 
 **Strategic Impact:** These schools serve as model institutions. Studying their curriculum layout, daily math block scheduling, and teacher coaching frameworks provides a scalable blueprint for underperforming districts statewide.
 
+<br>
 
 ## 3. Schools Facing Critical Challenges
 
@@ -79,8 +82,11 @@ The dataset revealed severe graduation rate disparities in alternative and speci
   - **Whaling City Junior/Senior High School:** 11.4% graduation rate
   - **Springfield High School:** 11.6% graduation rate
 
+<br>
+
 Note: Many of these institutions serve non-traditional or high-need student populations that require intensive wrap-around services rather than standard standardized testing enforcement alone.
 
+<br>
 
 ## 🎯 Strategic Recommendations for the Superintendent (Act)
 
@@ -91,9 +97,9 @@ Based on the empirical evidence, I recommend four actionable policy steps:
   3. **Deploy Intensive Intervention Resources:** Provide targeted funding for high-need schools (Curtis-Tufts, Springfield Public Day, Boston Day & Evening) to recruit dedicated graduation coaches, attendance officers, and mental health professionals.
   4. **Implement Longitudinal Tracking:** Monitor real-time indicators—such as Chronic Absenteeism and Student Growth Percentile (SGP)—to detect drop-out risk factors early.
 
+<br>
+<br>
 
-
-Leave a comment with your thoughts or questions!
 
 
 
