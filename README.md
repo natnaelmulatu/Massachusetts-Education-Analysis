@@ -14,9 +14,10 @@ For this data analytics project, I analyzed Massachusetts public education data 
   - **Targeted Equity:** Which schools face the greatest risk based on graduation rates?
 <br>
 This project demonstrates how data analytics can be used to move beyond assumptions, uncover meaningful insights, and support evidence-based decision-making in education.
+<br>
+<br>
 
-
-[![Watch the Demo](images/Tableau_Video.png)](https://[https://youtu.be/AMoYMQAOt_s]) 
+[![Watch the Demo](images/Tableau_Video.png)](https://youtu.be/AMoYMQAOt_s]) 
 
 
 
