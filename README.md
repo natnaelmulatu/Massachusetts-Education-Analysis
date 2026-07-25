@@ -19,8 +19,9 @@ This project demonstrates how data analytics can be used to move beyond assumpti
 
 [![Watch the Demo](images/Tableau_Video.png)](https://www.youtube.com/watch?v=AMoYMQAOt_s) 
 
-## 1. How Does Class Size Affect College Admission?
+<br>
 
+## 1. How Does Class Size Affect College Admission?
 <br>
 
 ### 💡 Initial Hypothesis
