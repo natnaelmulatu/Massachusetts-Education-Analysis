@@ -17,7 +17,7 @@ This project demonstrates how data analytics can be used to move beyond assumpti
 <br>
 <br>
 
-[![Watch the Demo](images/Tableau_Video.png)](https://youtu.be/AMoYMQAOt_s]) 
+[![Watch the Demo](images/Tableau_Video.png)](https://www.youtube.com/watch?v=AMoYMQAOt_s) 
 
 
 
