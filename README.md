@@ -1,7 +1,7 @@
 <img src="images/Tableau_Education_Project_Cover.png" alt="Logo" width="1000">
 
 # Data-Driven Insights in Education: Analyzing Massachusetts School Performance & Busting the Class Size Myth
-<br>
+
 <br>
 
 ## 🎥 Executive Summary & Project Walkthrough
